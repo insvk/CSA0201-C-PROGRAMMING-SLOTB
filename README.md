@@ -1,4 +1,4 @@
-C Programming - Assignment 01
+C Programming - ASSIGNMENTS AND CAPSTONE FILES 
 
 Name: Naresh S
 Register Number: 1912260189
